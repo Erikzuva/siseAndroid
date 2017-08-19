@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ActControlEntradaCine</string>
+    <string name="app_nombre">Nombres</string>
+    <string name="app_apellidos">Apellidos</string>
+    <string name="app_edad">Edad</string>
+    <string name="app_titulo_edad">Ingrese Edad:</string>
+    <string name="app_title_documento">Documentos que sustentan su ingreso</string>
+    <string name="app_documento">Documento de Autorización</string>
+    <string name="app_dni">DNI</string>
+    <string name="app_title_ticket">Posee Boleto de Entrada</string>
+    <string name="app_ticket_si">Si</string>
+    <string name="app_ticket_no">No</string>
+    <string name="app_button_ingreso">Validar Ingreso</string>
+    <string name="app_button_reset">Resetear ingreso</string>
+</resources>
